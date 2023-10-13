@@ -5,13 +5,6 @@
 - 📫 Contate-me: thallisabreu11@gmail.com
 - 😄 Pronouns: Ele/dele
 
-  ##
-<div>
-  <a href="https://github.com/thallisabreu">
-    <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=thallisabreu&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallisabreu&show_icons=true&theme=dark&include_all_commits=true"/>
-</div>
-
   <div style="display: inline_block"><br>
   <img align="center" alt="Thallis-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Thallis-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
